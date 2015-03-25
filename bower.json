@@ -1,0 +1,27 @@
+{
+  "name": "leaflet-routing-graphhopper",
+  "version": "1.0.3",
+  "authors": [
+    "Per Liedman <eu@luiz.cc>"
+  ],
+  "description": "Extends Leaflet Routing Machine with support for GraphHopper.",
+  "main": "leafet-routing-graphhopper.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "leaflet",
+    "routing",
+    "machine",
+    "graphhopper"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/perliedman/lrm-graphhopper",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
